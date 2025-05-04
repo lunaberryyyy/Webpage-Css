@@ -1,3 +1,3 @@
-Collection of random website css i use
-for firefox use https://addons.mozilla.org/en-US/firefox/addon/customcss-injector/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
-for chromium use https://chromewebstore.google.com/detail/super-css-inject/pcfpmmmjdgngeidaggcahhoncahmpiin?hl=en
+- Collection of random website css i use
+- [for firefox use] (https://addons.mozilla.org/en-US/firefox/addon/customcss-injector/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [for chromium use] (https://chromewebstore.google.com/detail/super-css-inject/pcfpmmmjdgngeidaggcahhoncahmpiin?hl=en)
