@@ -1,0 +1,8 @@
+html .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled { background-color: #000; } /* subscribe button */
+    
+html[data-page-type="video"][it-comments-sidebar="true"] ytd-reel-shelf-renderer { display: none; } /* Hide shorts remixing this video */
+    
+ytd-video-description-infocards-section-renderer { display: none !important; } /* Hide youtubers channel videos */
+
+
+/* Currently not complete using this css will make your page look weird */

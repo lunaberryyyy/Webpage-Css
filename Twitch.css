@@ -1,0 +1,18 @@
+/* background color theme */
+body { background-color: black !important; }
+.channel-root__right-column { background: black !important; } /* Stream chat header */
+.chat-room { background: black !important; } /* Stream chat */
+
+button, input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="file"]), textarea, select, [contenteditable="true"] {
+	color: #ffffff !important;
+	background-color: black !important; /* Accent box background color */
+	border-color: black !important; /* Accent box border color */
+}
+.gfTrQH { /* Power-ups & rewards Popup menu */
+    border-radius:3px;
+	background: black;
+}
+/* Buttons */
+.gjSLzh { background-color: black !important; } /* Bits and points bt bg */
+.eSFFfM { background-color: black !important; } /* Settings bt bg */
+.khjbBN { background-color: black !important; } /* chat bt bg */
