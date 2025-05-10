@@ -9,10 +9,11 @@ ytd-app {
 #owner.ytd-watch-metadata { min-width: calc(100% - 6px) !important; }
 
 /* Extra adjustments */
-#cinematics.ytd-watch-flexy { display: none !important; }                                                         /* Remove ambient lighting around player */
-html .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled { background-color: rgb(10,10,10); }    /* subscribe button background recolor */
-.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled { color: #fff !important; }                  /* subscribe button text recolor */
-html[data-page-type="video"][it-comments-sidebar="true"] ytd-reel-shelf-renderer { display: none; }               /* Hide shorts remixing this video */
-ytd-video-description-infocards-section-renderer { display: none !important; }                                    /* Hide youtubers channel videos */
+#cinematics.ytd-watch-flexy { display: none !important; }                                                                 /* Remove ambient lighting around player */
+html .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled { background-color: rgb(30,30,30) !important; } /* Join button background recolor */
+html .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled { background-color: rgb(10,10,10); }            /* subscribe button background recolor */
+.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled { color: #fff !important; }                          /* subscribe button text recolor */
+html[data-page-type="video"][it-comments-sidebar="true"] ytd-reel-shelf-renderer { display: none; }                       /* Hide shorts remixing this video */
+ytd-video-description-infocards-section-renderer { display: none !important; }                                            /* Hide youtubers channel videos */
 
 /* Yt css will work and look alright but its not complete in any means */
